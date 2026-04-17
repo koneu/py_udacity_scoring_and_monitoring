@@ -76,7 +76,6 @@ def outdated_packages_list():
 
     result = subprocess.run(
         [sys.executable, '-m', 'pip', 'list', '--outdated', '--format=json'],
-        check=True,
         capture_output=True,
         text=True,
     )
