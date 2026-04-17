@@ -1,1 +1,1 @@
-*/10 * * * * cd /workspaces/cd0583-project-starter-file && /usr/local/bin/python /workspaces/cd0583-project-starter-file/fullprocess.py
+*/10 * * * * cd /home/koneu/Code/py_udacity_scoring_and_monitoring && /home/koneu/Code/py_udacity_scoring_and_monitoring/.pixi/envs/default/bin/python fullprocess.py
